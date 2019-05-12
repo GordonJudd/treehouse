@@ -3,4 +3,4 @@
 This repo is for all my course file clopleted through teamtreehouse.com
 
 
-What it do 
+drag and drop image syntax from new issue
